@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#SWAG-4] COMO usuário desejo adicionar/remover um item ao carrinho</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://wil-souza.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [SWAG-4]&nbsp;<a href="https://wil-souza.atlassian.net/browse/SWAG-4">COMO usuário desejo adicionar/remover um item ao carrinho</a>
+            <span class="subText">
+               Criado: 08/out/23                   &nbsp;Atualizado(a): 08/out/23
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Tarefas pendentes</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projeto:</b></td>
+        <td width="80%"><a href="https://wil-souza.atlassian.net/secure/BrowseProject.jspa?id=10000">Swaglabs Shopping</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Componentes:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões afetadas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões corrigidas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Tipo:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            História
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Prioridade:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Relator:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="6153c18699b4b8006a4fff2a"
+                id="word_reporter_6153c18699b4b8006a4fff2a"
+                href="https://wil-souza.atlassian.net/secure/ViewProfile.jspa?accountId=6153c18699b4b8006a4fff2a">
+                    Wil Souza
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Responsável:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="6153c18699b4b8006a4fff2a"
+                id="word_assignee_6153c18699b4b8006a4fff2a"
+                href="https://wil-souza.atlassian.net/secure/ViewProfile.jspa?accountId=6153c18699b4b8006a4fff2a">
+                    Wil Souza
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolução:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Não resolvido(s)
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Categorias:</b>
+        </td>
+        <td id="labels-10003-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Nenhum
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Estimativa de trabalho restante:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Tempo gasto:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Estimativa original:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10003-value" class="value" bgcolor="#ffffff" width="80%">      0|i0000n:
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10003-value" class="value" bgcolor="#ffffff" width="80%"></td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Descrição</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <ol>
+	<li><b>Valor</b>: Adicionar itens ao carrinho na loja virtual é importante para que os clientes possam fazer pedidos e realizar a compra. Essa funcionalidade visa permitir que o cliente adicione ou retire itens do seu carrinho, permitindo que o usuário possa gerenciar todos seus itens em apenas um local na loja virtual.</li>
+	<li><b>Narrativa do usuário:</b>
+	<ul>
+		<li><b>Como</b> cliente;</li>
+		<li><b>Eu quero</b> acessar a página de produtos;</li>
+		<li><b>Para</b> visualizar opções adicionar ou remover produtos ao meu carrinho na loja virtual.</li>
+	</ul>
+	</li>
+	<li><b>Requisitos:</b></li>
+</ol>
+
+
+<ul>
+	<li>Atores: cliente</li>
+	<li>Ver documento em anexo da UI/UX</li>
+	<li>Dados:
+	<ul>
+		<li>Criação de um banco de dados/tabelas para armazenar informações dos produtos cadastrados;</li>
+		<li>Criaçãod e API para integração com front-end e banco criado;</li>
+		<li>Criação de tela de produtos para permitir que usuário acesse página e adicione/remova produtos ao carrinho.</li>
+	</ul>
+	</li>
+	<li>Plataforma/Ambientes:
+	<ul>
+		<li>Web/Web Mobile;</li>
+		<li>Devem ser configurados ambientes e piplines para desenvolvimento, homologação de usuários, homologação QA e produção.</li>
+	</ul>
+	</li>
+	<li>Critérios de Aceite:
+	<ul>
+		<li>Usuário deverá visualizar botão para adicionar produtos ao carrinho;</li>
+		<li>Usuário deverá visualizar botão para remover produtos do carrinho caso ele tenha sido adicionado anteriormente;</li>
+		<li>Usuário deverá visualizar botão para acessar o carrinho e visualizar produtos que adicionou nele.</li>
+	</ul>
+	</li>
+</ul>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Gerado em Sun Oct 08 23:07:55 UTC 2023 por Wil Souza usando JIRA 1001.0.0-SNAPSHOT#100237-sha1:efd43e53611dccc1690fb7053118954a8caf2150.
+
+</body>
+</html>
